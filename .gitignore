@@ -1,0 +1,4 @@
+## .gitignore file for code-scaffold
+
+## ignore folder fetched through gclient
+code
